@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual C# Express 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tutorial1", "Tutorial1\Tutorial1\Tutorial1.csproj", "{C9DE9ACD-8C1C-4503-9656-2F42716FFD8A}"
+EndProject
+Project("{96E2B04D-8817-42C6-938A-82C39BA4D311}") = "Tutorial1Content", "Tutorial1\Tutorial1Content\Tutorial1Content.contentproj", "{A4FBAC2E-7102-4F3A-BEC3-AD49A212B1A7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C9DE9ACD-8C1C-4503-9656-2F42716FFD8A}.Debug|x86.ActiveCfg = Debug|x86
+		{C9DE9ACD-8C1C-4503-9656-2F42716FFD8A}.Debug|x86.Build.0 = Debug|x86
+		{C9DE9ACD-8C1C-4503-9656-2F42716FFD8A}.Release|x86.ActiveCfg = Release|x86
+		{C9DE9ACD-8C1C-4503-9656-2F42716FFD8A}.Release|x86.Build.0 = Release|x86
+		{A4FBAC2E-7102-4F3A-BEC3-AD49A212B1A7}.Debug|x86.ActiveCfg = Debug|x86
+		{A4FBAC2E-7102-4F3A-BEC3-AD49A212B1A7}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
